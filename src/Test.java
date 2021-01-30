@@ -216,11 +216,11 @@ public class Test {
         }
         return -1;
     }
+    //定义一个函数,用来实现对于打字的实现
 
 
 
-
-
+    //主函数实现对各个数据的检验
         public static void main (String[]args){
 
         int[] array = new int[]{1,1,2,2,5,5,9,9,6,6,8,8,4,7,7,3,3};
